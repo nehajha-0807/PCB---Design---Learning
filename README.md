@@ -1,2 +1,9 @@
-# PCB---Design---Learning
-A collection of PCB design projects, schematics, layouts, BOMs, and hardware development documentation using KiCad and embedded systems.
+# PCB Design Learning
+A repository for PCB design projects, schematics, layouts, and embedded hardware development.
+## Technologies
+- KiCad
+- ESP32
+- STM32
+
+## Author
+Neha Jha
